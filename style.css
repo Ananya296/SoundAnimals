@@ -1,0 +1,49 @@
+body
+{
+  font-family: 'Patrick Hand', cursive;
+  background: white;
+}
+
+.header_div
+  {
+  background: #ADDEFF;
+  color: white; 
+  height: 20%;
+  }
+
+  .header_div p{
+    margin-top: 35px;
+    font-family: 'Sue Ellen Francisco', cursive;
+    letter-spacing: 2px;
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .header_div h2{
+    margin-top: 30px;
+    font-family: 'Jua', cursive;
+    letter-spacing: 2px;
+    font-size: 45px;
+  }
+
+  .main_div button{
+    font-family: 'Jua', sans-serif;
+    margin-top: 28px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    font-size: 18px;
+  }
+
+  .copy_right_footer {
+    position: fixed;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+    font-size: 28px;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+ }
+ 
